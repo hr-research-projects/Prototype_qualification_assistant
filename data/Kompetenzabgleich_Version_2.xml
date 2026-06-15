@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:model xmlns:ns0="http://www.opengroup.org/xsd/archimate/3.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengroup.org/xsd/archimate/3.0/ http://www.opengroup.org/xsd/archimate/3.1/archimate3_Diagram.xsd" identifier="id-493e6a43fc7244dd862ce6c15e24c816">
+  <ns0:name xml:lang="de">Kompetenzabgleich</ns0:name>
+  <ns0:elements>
+    <ns0:element identifier="id-0c94c8e6c3764642b7f7ecb704873e59" xsi:type="Resource">
+      <ns0:name xml:lang="de">Fehler-diagnose</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-151da64fd79441d19cfdf9b4eba657d5" xsi:type="Resource">
+      <ns0:name xml:lang="de">Wartungs-arbeiten</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-02a0de42b20b4b37a2ee0868b40bf515" xsi:type="Resource">
+      <ns0:name xml:lang="de">Dokumentation von Serviceeinsätzen</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-8ad3d13f3c9f46d68f1629d07a72f390" xsi:type="Resource">
+      <ns0:name xml:lang="de">Instandhaltungs-arbeiten</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-839ef4ff990644969bcdfb805dace602" xsi:type="Resource">
+      <ns0:name xml:lang="de">Projektierung und Planung</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-7b54326deb9c4070a42c8258e136cc2f" xsi:type="Resource">
+      <ns0:name xml:lang="de">Berechnung und Dimensionierung</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-c9b0d58c59a24b8c97489cc9ffa27fce" xsi:type="Resource">
+      <ns0:name xml:lang="de">Wirtschaftlichkeits-analysen</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-7ed15d3392ba41f5b05118be897624e6" xsi:type="Resource">
+      <ns0:name xml:lang="de">Kosten-kalkulationen</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-e7d3e8aca1ee4b4f86d8c6d15aa19433" xsi:type="Resource">
+      <ns0:name xml:lang="de">Erstellung von Leistungs-verzeichnissen</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-c8c0446fd4c6496290aa33f3b49f17db" xsi:type="Resource">
+      <ns0:name xml:lang="de">Technische Beratung</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-e659c9612aec451fa9f521e6b0569184" xsi:type="Resource">
+      <ns0:name xml:lang="de">Rechnungs-erstellung</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-f36d66c774b54ad4acf1ca008530a763" xsi:type="Resource">
+      <ns0:name xml:lang="de">Rechnungs-prüfung</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-b78e3fe9810243579ea5fccb5fd1011e" xsi:type="Resource">
+      <ns0:name xml:lang="de">Kontierung und Buchung von Zahlungseingängen und -ausgängen</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-75fa66dd97ac424eaa52af16021c3d1b" xsi:type="Resource">
+      <ns0:name xml:lang="de">Konto-führung</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-bf3776432ef4438b88741d208a8389f3" xsi:type="Resource">
+      <ns0:name xml:lang="de">Korrespondenz mit Kunden</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-fbb3009853054b19a959fade01a0c547" xsi:type="BusinessService">
+      <ns0:name xml:lang="de">Entrauchung &amp; Entlüftung</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-8a9fb5c247044556bab3f5d115bf7b32" xsi:type="BusinessService">
+      <ns0:name xml:lang="de">Überprüfung Brandschutz-bestimmungen</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-4cb9b233869d4cceb73a1fb3f0fbe01f" xsi:type="BusinessActor">
+      <ns0:name xml:lang="de">Philipp Lahm</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-b2b543d5c32643da8b3fcd2d5bb3d876" xsi:type="BusinessFunction">
+      <ns0:name xml:lang="de">Vertrieb</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-5ff46f7ddba547e7b889b0fdde0f2d05" xsi:type="BusinessFunction">
+      <ns0:name xml:lang="de">Elektrik</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-f71c3c2c263049a2aa1e1a2902e9a33d" xsi:type="BusinessFunction">
+      <ns0:name xml:lang="de">Mechanik</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-8a1a22852d334ebba6c6f423fb2c5677" xsi:type="BusinessFunction">
+      <ns0:name xml:lang="de">Informatik</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-0846d472237f42bb8c52f7d5c9ef0096" xsi:type="BusinessProcess">
+      <ns0:name xml:lang="de">Predictive Maintenance</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-c86d0a8b51b14c60ade07048110df838" xsi:type="BusinessProcess">
+      <ns0:name xml:lang="de">Vertrieb</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-8e8c5c7eb37b43acb28bc8b82a0bb69e" xsi:type="BusinessProcess">
+      <ns0:name xml:lang="de">Incident Prozess</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-9c8400cb4bbd4095b40a28ec7a62daa0" xsi:type="BusinessProcess">
+      <ns0:name xml:lang="de">Abrechnung</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-ecd6dfaa781b41fd827c60eb8d4ddddc" xsi:type="BusinessActor">
+      <ns0:name xml:lang="de">Mario Gomez</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-f21ae102985d426abdc8dd56c132e0fd" xsi:type="BusinessRole">
+      <ns0:name xml:lang="de">Kommune</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-f6a6ba4a9f9c4e7f9110d08236f199b6" xsi:type="BusinessRole">
+      <ns0:name xml:lang="de">Arbeitsschutzingenieur/in</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-0b7b8845d0ca4801887657c6c91d119b" xsi:type="BusinessRole">
+      <ns0:name xml:lang="de">Buchhaltungsfachkraft</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-db5a923263e64cefaf3559c7986c01c9" xsi:type="BusinessRole">
+      <ns0:name xml:lang="de">Anlagenelektroniker/in</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-b057b139b3b44929884715b8292f63c0" xsi:type="BusinessRole">
+      <ns0:name xml:lang="de">Anlagenmechaniker/in – Sanitär-, Heizungs- und Klimatechnik</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-f299d0db27ae4c228a1e8a692b2a56aa" xsi:type="BusinessRole">
+      <ns0:name xml:lang="de">EDV-Support-Spezialist/in</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-dfa701d68d4e48f8948b67d452bd121e" xsi:type="Grouping">
+      <ns0:name xml:lang="de">Skills</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-a80895c1d6764b6184e31b332c283d3b" xsi:type="Grouping">
+      <ns0:name xml:lang="de">Fähigkeiten Ziel-Mitarbeiterrolle A</ns0:name>
+    </ns0:element>
+    <ns0:element identifier="id-7898923980b944258a8fa031bc0a1715" xsi:type="Grouping">
+      <ns0:name xml:lang="de">Fähigkeiten Ziel-Mitarbeiterrolle B</ns0:name>
+    </ns0:element>
+  </ns0:elements>
+  <ns0:relationships>
+    <ns0:relationship identifier="id-072884b76edb4adeb23c19ec451449e8" source="id-fbb3009853054b19a959fade01a0c547" target="id-12ca251de63049b1b95ae6a6df36e32a" xsi:type="Serving" />
+    <ns0:relationship identifier="id-6ad9f5b2659f441da165f66f007879e2" source="id-3943723b8ac647c2904d133cc08a62a8" target="id-fbb3009853054b19a959fade01a0c547" xsi:type="Association" />
+    <ns0:relationship identifier="id-68d233d2ed6d484dbe849d819fa85723" source="id-fbb3009853054b19a959fade01a0c547" target="id-8a9fb5c247044556bab3f5d115bf7b32" xsi:type="Association" />
+    <ns0:relationship identifier="id-c484b02e3d674a4db168e0e2ef5d0578" source="id-4cb9b233869d4cceb73a1fb3f0fbe01f" target="id-8a9fb5c247044556bab3f5d115bf7b32" xsi:type="Realization" />
+    <ns0:relationship identifier="id-b8bcba92bbe34d2b81baa1e06533f1a9" source="id-0846d472237f42bb8c52f7d5c9ef0096" target="id-fbb3009853054b19a959fade01a0c547" xsi:type="Realization" />
+    <ns0:relationship identifier="id-138f14c1b4434f92a9fef3432935bbf8" source="id-c86d0a8b51b14c60ade07048110df838" target="id-0846d472237f42bb8c52f7d5c9ef0096" xsi:type="Triggering" />
+    <ns0:relationship identifier="id-3f7fcd5eadd842cf88abda433fb5e77f" source="id-e3d049ef449b4b048be2619b00d7d212" target="id-c86d0a8b51b14c60ade07048110df838" xsi:type="Association" />
+    <ns0:relationship identifier="id-77d231447e704e989dceda445d4c4c73" source="id-8e8c5c7eb37b43acb28bc8b82a0bb69e" target="id-fbb3009853054b19a959fade01a0c547" xsi:type="Realization" />
+    <ns0:relationship identifier="id-783bbd76c828445a8fa916c5a8bcff55" source="id-0846d472237f42bb8c52f7d5c9ef0096" target="id-8e8c5c7eb37b43acb28bc8b82a0bb69e" xsi:type="Triggering" />
+    <ns0:relationship identifier="id-a484eb46c5aa467c8fc578e67f5c756c" source="id-8e8c5c7eb37b43acb28bc8b82a0bb69e" target="id-9c8400cb4bbd4095b40a28ec7a62daa0" xsi:type="Triggering" />
+    <ns0:relationship identifier="id-ef4c25af10b6478ca8583932e699bcbf" source="id-9c8400cb4bbd4095b40a28ec7a62daa0" target="id-ecd6dfaa781b41fd827c60eb8d4ddddc" xsi:type="Association" />
+    <ns0:relationship identifier="id-c8cfcf9a241142e78fba29d4dc744188" source="id-b2b543d5c32643da8b3fcd2d5bb3d876" target="id-db5a923263e64cefaf3559c7986c01c9" xsi:type="Association" />
+    <ns0:relationship identifier="id-278266da8d0440328cdf329e5ce1bd7c" source="id-5ff46f7ddba547e7b889b0fdde0f2d05" target="id-db5a923263e64cefaf3559c7986c01c9" xsi:type="Association" />
+    <ns0:relationship identifier="id-bc8f8cf5d4924f99933483fd5adec64e" source="id-f71c3c2c263049a2aa1e1a2902e9a33d" target="id-db5a923263e64cefaf3559c7986c01c9" xsi:type="Association" />
+    <ns0:relationship identifier="id-6b23266a79a04fdfaae7a62553ad48ca" source="id-8a1a22852d334ebba6c6f423fb2c5677" target="id-db5a923263e64cefaf3559c7986c01c9" xsi:type="Association" />
+    <ns0:relationship identifier="id-42f85fa327414ba8830cf6a7d4fd68b4" source="id-db5a923263e64cefaf3559c7986c01c9" target="id-8e8c5c7eb37b43acb28bc8b82a0bb69e" xsi:type="Association" />
+    <ns0:relationship identifier="id-971e5ab661ac4be595fb946200d3f48c" source="id-4cb9b233869d4cceb73a1fb3f0fbe01f" target="id-a80895c1d6764b6184e31b332c283d3b" xsi:type="Association" />
+    <ns0:relationship identifier="id-a6459e7b637e40f4b0a6add07670f30e" source="id-ecd6dfaa781b41fd827c60eb8d4ddddc" target="id-7898923980b944258a8fa031bc0a1715" xsi:type="Association" />
+    <ns0:relationship identifier="id-649c20c3da43485da418e5155da2d8de" source="id-db5a923263e64cefaf3559c7986c01c9" target="id-dfa701d68d4e48f8948b67d452bd121e" xsi:type="Association" />
+    <ns0:relationship identifier="id-1739f62154b54d7480ce2e281cbef482" source="id-0c94c8e6c3764642b7f7ecb704873e59" target="id-dfa701d68d4e48f8948b67d452bd121e" xsi:type="Specialization" />
+    <ns0:relationship identifier="id-60c9ab90af4c4bf0990f6be0437f6a87" source="id-151da64fd79441d19cfdf9b4eba657d5" target="id-dfa701d68d4e48f8948b67d452bd121e" xsi:type="Specialization" />
+    <ns0:relationship identifier="id-55d32387a6a34cfeacfe2358075aad33" source="id-02a0de42b20b4b37a2ee0868b40bf515" target="id-dfa701d68d4e48f8948b67d452bd121e" xsi:type="Specialization" />
+    <ns0:relationship identifier="id-3c0c02fd620b4b16b6ce1e0aabd2d76b" source="id-8ad3d13f3c9f46d68f1629d07a72f390" target="id-dfa701d68d4e48f8948b67d452bd121e" xsi:type="Specialization" />
+    <ns0:relationship identifier="id-7843d478ccc44484ba14df0d7afe35e6" source="id-a80895c1d6764b6184e31b332c283d3b" target="id-839ef4ff990644969bcdfb805dace602" xsi:type="Composition" />
+    <ns0:relationship identifier="id-89a0bf6618894e1c8cbfb20aa2ba905d" source="id-a80895c1d6764b6184e31b332c283d3b" target="id-7b54326deb9c4070a42c8258e136cc2f" xsi:type="Composition" />
+    <ns0:relationship identifier="id-ffaacbd48db54c4eb549e3fa2bbb1a50" source="id-a80895c1d6764b6184e31b332c283d3b" target="id-c9b0d58c59a24b8c97489cc9ffa27fce" xsi:type="Composition" />
+    <ns0:relationship identifier="id-2fc1e569e58b4ccaab0af9587917d082" source="id-a80895c1d6764b6184e31b332c283d3b" target="id-7ed15d3392ba41f5b05118be897624e6" xsi:type="Composition" />
+    <ns0:relationship identifier="id-8065eadb568047ca8a17f9267e9a523a" source="id-a80895c1d6764b6184e31b332c283d3b" target="id-e7d3e8aca1ee4b4f86d8c6d15aa19433" xsi:type="Composition" />
+    <ns0:relationship identifier="id-376ef591b26f41c4a83f91cd83c34b5e" source="id-a80895c1d6764b6184e31b332c283d3b" target="id-c8c0446fd4c6496290aa33f3b49f17db" xsi:type="Composition" />
+    <ns0:relationship identifier="id-9349aefc4bf149f48c5622ca61fb3c89" source="id-7898923980b944258a8fa031bc0a1715" target="id-e659c9612aec451fa9f521e6b0569184" xsi:type="Composition" />
+    <ns0:relationship identifier="id-3a6f01080df74168b96b015808cee9f1" source="id-7898923980b944258a8fa031bc0a1715" target="id-f36d66c774b54ad4acf1ca008530a763" xsi:type="Composition" />
+    <ns0:relationship identifier="id-a73237dd1866427d985dde0ade47c7dd" source="id-7898923980b944258a8fa031bc0a1715" target="id-b78e3fe9810243579ea5fccb5fd1011e" xsi:type="Composition" />
+    <ns0:relationship identifier="id-d25deddc4dd9489eac7dd6410977a704" source="id-7898923980b944258a8fa031bc0a1715" target="id-75fa66dd97ac424eaa52af16021c3d1b" xsi:type="Composition" />
+    <ns0:relationship identifier="id-3c81583d934e4b33a7f9390459d70116" source="id-7898923980b944258a8fa031bc0a1715" target="id-bf3776432ef4438b88741d208a8389f3" xsi:type="Composition" />
+    <ns0:relationship identifier="id-c8601cefdc774a42a0d60dd6a3f4248a" source="id-fbb3009853054b19a959fade01a0c547" target="id-f21ae102985d426abdc8dd56c132e0fd" xsi:type="Association" />
+    <ns0:relationship identifier="id-ee984930489c440aa3c93b3534797e26" source="id-f6a6ba4a9f9c4e7f9110d08236f199b6" target="id-8a9fb5c247044556bab3f5d115bf7b32" xsi:type="Realization" />
+    <ns0:relationship identifier="id-c5e18f449c154c2f82f316e1cd5c975e" source="id-4cb9b233869d4cceb73a1fb3f0fbe01f" target="id-f6a6ba4a9f9c4e7f9110d08236f199b6" xsi:type="Assignment" />
+    <ns0:relationship identifier="id-e9c78ec581914ae8ba5a8104dd70af54" source="id-0b7b8845d0ca4801887657c6c91d119b" target="id-9c8400cb4bbd4095b40a28ec7a62daa0" xsi:type="Association" />
+    <ns0:relationship identifier="id-ec8138e367dd450d89b13a388fc49f43" source="id-ecd6dfaa781b41fd827c60eb8d4ddddc" target="id-0b7b8845d0ca4801887657c6c91d119b" xsi:type="Assignment" />
+    <ns0:relationship identifier="id-eebcdbcc2d5848af8b573d4782819ea5" source="id-dfa701d68d4e48f8948b67d452bd121e" target="id-ca9e4e96fa244fd49b58f8765bde20bd" xsi:type="Association" />
+    <ns0:relationship identifier="id-1b0a26b9cca14d23a4dc6638683c706b" source="id-ca9e4e96fa244fd49b58f8765bde20bd" target="id-db5a923263e64cefaf3559c7986c01c9" xsi:type="Assignment" />
+    <ns0:relationship identifier="id-287dd1b336a24aa994f703d9ca20b660" source="id-b057b139b3b44929884715b8292f63c0" target="id-fbb3009853054b19a959fade01a0c547" xsi:type="Realization" />
+    <ns0:relationship identifier="id-2fc31026cba241a9b2bc0b6567f6046a" source="id-3943723b8ac647c2904d133cc08a62a8" target="id-b057b139b3b44929884715b8292f63c0" xsi:type="Assignment" />
+    <ns0:relationship identifier="id-5c6ffa31587e4702b461eef476b18c28" source="id-f299d0db27ae4c228a1e8a692b2a56aa" target="id-c86d0a8b51b14c60ade07048110df838" xsi:type="Association" />
+    <ns0:relationship identifier="id-429ae278de08468998849daed6e9d86a" source="id-e3d049ef449b4b048be2619b00d7d212" target="id-f299d0db27ae4c228a1e8a692b2a56aa" xsi:type="Assignment" />
+  </ns0:relationships>
+  <ns0:views />
+</ns0:model>
