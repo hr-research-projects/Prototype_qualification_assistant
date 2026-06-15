@@ -1,0 +1,6 @@
+Employee_ID,KldB_5_digit,Manual_Skills
+EMP001,25122,"data analysis; python; sql; excel"
+EMP002,25122,"machine learning; tensorflow; scikit-learn; statistics"
+EMP003,25122,"web development; javascript; react; node.js"
+EMP004,25122,"project management; agile; scrum; leadership"
+EMP005,25122,"cloud computing; aws; docker; kubernetes" 
